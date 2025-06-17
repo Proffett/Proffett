@@ -158,8 +158,6 @@ Redux          ████████████████████ 90%
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Proffett&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Proffett&layout=compact&theme=default)
-
 </div>
 
 ---
