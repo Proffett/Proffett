@@ -62,7 +62,7 @@ Redux          ████████████████████ 90%
 - 📱 Responsive web application for tracking crypto investments
 - 🔄 Real-time price updates via CoinGecko API
 - 📊 Profit/loss calculation and portfolio analytics
-- **Stack:** React, Redux, SCSS, Webpack
+- **Stack:** React, Typescript, Redux, SCSS, Webpack
 
 #### 🔗 [NextJS Blog](https://github.com/Proffett/nextJsBlog)
 **Modern Blog Platform**
